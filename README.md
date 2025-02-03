@@ -28,3 +28,17 @@ This is an engaging and interactive online shooting game developed using Python 
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/shooting-game.git
+
+2. Navigate to the project directory
+   ```bash
+   cd shooting-game
+
+3. Install the required dependencies
+   ```bash
+   pip install pygame
+
+4. Run the game:
+   ```bash
+   python shooting_game.py
+
+
